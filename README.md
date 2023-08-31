@@ -9,8 +9,4 @@ Playbooks: Playbooks are YAML files that define a series of tasks to be executed
 
 Tasks: Tasks are the smallest units of work in Ansible. They define the actions you want to perform on the target systems.
 
-Modules: Modules are pre-built scripts that Ansible uses to execute tasks. They cover a wide range of tasks, from system management to cloud provisioning.
-
-Play: A play is a collection of tasks that are applied to a specific group of hosts. It organizes tasks into a meaningful sequence.
-
 Roles: Roles are a way to organize playbooks and tasks in a more modular and reusable manner. They encapsulate related tasks and variables.
