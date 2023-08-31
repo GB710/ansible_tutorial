@@ -1,5 +1,5 @@
 # ansible_tutorial
-dsdcsc
+
 This brief Ansible tutorial provides a quick introduction to some fundamental concepts that helped me get started with automation and configuration management. It covers key concepts and actions that are useful for managing systems efficiently.
 
 Key Concepts
